@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "biorelax-65e65",
+  "private_key_id": "d79c055b692b182dd759fb309e84f811b085c419",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDbwkONaLDIHZMb\n1F0CuL3kyubNfzetOyi/dHzCViekw27WcTN6yrGGp+uNyujz9L3D3tWeUX3DMMva\nBKvFZjBBbCwxN+B5StGnM2OrkNxxA7ytriZCQGjRicc5YVZRDG1rEBoVijcY4jf9\n6zyQB1qS1cSmFfuDhfyQam++na4ahgBVTbay558oY86qNoajnSdg7nnpJ/3RQPEH\nznGaMW1fUxIn3dmem6mbtNhVkY8QCwHClZSrOS1bd3oHQILUZ4ZPtYLzc3qfQg1P\nIZqRzx+feWcGMNIVnKTQDU898EnaQx2hlZvnZxaC0IxBhzGLBpKHYnEF3XlTiPGx\n5UCXkTOzAgMBAAECggEABsO4E0ZBtXyTkVZmy9/77cBWfRo0EIpdpWcPNWbe2YeF\nMJH+JQLQQXYxyK+SSXrNzJWzZagvLYRMV22wC+eAB24uU2WGQgriNo9dELmTejcZ\n5mQR8WrMzzEP3N2jgTiCCxBNJ+nqlZgruQ6LUrOnP2stHnUBb6RUM0Mo0BPyeVvP\n+X9rCxQ+9ntYj9+JCOq4qf0Fbu58KxfTzX2UjtQi3YJ5Fbyp0DR+N9Z8W58QD1xu\nlHH1bnCi09wefX95j5n2lW+EevxzKvG8egPQoKmstFXRAkXQDKO9JnsWmybLWlXX\nzOJ8ej+wzwrp+e0klqcbViYA7a5N8MGclyP+ZgcwQQKBgQD6xSxEl2hZ1xzt20Bj\nCDxiUAWHdc+3553neOnD/4rLN6yRHGWhonuxaVU9+bxS9y11s6zweKYY+l91ToHC\n3uVM0oaxMzf5RNyFyZoyhG/Il5GK7Jij0/J6I6KQ6hsK0/VErRsG7vddDqPflIgB\nF8Ty7uyWDVymDB9kZwiLLT/CeQKBgQDgV4aPD+mbmhQR+cG9sOW60vAgeqF7WU9B\nDs1oLhr/WDXTay8uZkJZG0XcFFWyvMIPPw//Aeu/t1m1VKrnVKjdA0LhVoiOdVqa\n143W0VpCeMfhKigLba8D+73aIWceDnFyaXHHoyNdkdHal3Ny+MtE6gOX1pdggtvC\nqgw6UcB8iwKBgCzMpMfsNJw4LdbgYHRQuFjn6tT0WxODsVX05+437Ne5Ln8OD6n8\nmRRsuOnFf7tipSBt5Otg4mt77ynJyKzDnTtIMP/fIpTJlIviJEX6Gu4/BaVH90zt\nRFhFnXk+GW6pxxtpwXZPoqlhQC1lH5byZCDyRhnYcUDI0aLiNUiH4OghAoGBANmS\nKQ7ACPh+cq6IQWw9jl8kyftF0yx0jhdzSqSZ6lbv7qvOzKA8TmZqu9LX6dEBnVb5\n+wJ+k2uIXzksFt9pTKejzQ4LRT6b87YuDQJkYRwMVRU7NED5K/45/IL7WC1fJokm\nWFGcFuVdUV+k+DNttH1uUvPEC2VvI8Bj+J3qwTpHAoGBAJazZFDlsRHNBiZsjKPy\n0uaiuMGPreqA2zZN3Yn8IL1EIx1KxvnBa1fzHY7Ar361Nll+/POvD3dkPOkUKNMt\nTl8GQVEUD2R5BqRkzHFyq1AgNQ9I9aq1vMLUMqBvmu/m/bCIQy0OBSDu2+2OJNSC\n5j/VCLaoA5VQSK8P4X6g9BwP\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-hedqae@biorelax-65e65.iam.gserviceaccount.com",
+  "client_id": "104006024216645198869",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-hedqae%40biorelax-65e65.iam.gserviceaccount.com"
+}
