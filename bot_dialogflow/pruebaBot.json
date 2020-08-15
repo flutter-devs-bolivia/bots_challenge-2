@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "platosvegetarianos-rpbi",
+  "private_key_id": "a9352cd629bf6da1aeaaef85ff29ebb39a927b9a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmixyzgjGTJUgs\ntEciuVNhNaFaA97Q3+wVT774qRgOQvUAnQJ/Eo9dra5UacE+5JK8rDZqhn9tOTQT\nNv/+e1iEo250WgPG+8rVNXIPBtCN3kNUym4MslFyR5Qipq075W1f3jI+ZRvty2rh\ndPedR6uhZLp7/byZ4fVeOfzSX+373h2uAYXv9epRE0lIFAe7Cx4LHJCy+Ff25gh8\nnh+Dn2zKSP8mO+Z/uImsBURp9TYY0hHsPxcpwx3xGlTGKKJnu6/KB3iDvGuR6b2E\nZfNSKoDVMX+X/yjY8mhJPjKAoGLnVj4Syuap/2tQbnynJWbKf87CB2xEASAPOoKE\nnuSGWOhHAgMBAAECggEARcVwKDuMuVWdJDpjFPU1cMQEUvO86UX7cu+xghvateY5\ns7fQ25hIXzeC/PUMkPYoGoWb6l1OD0YypmYMz32Q6oNzmC7t2bi2SBRmsnmDgIv1\noKGq8Ji+4XEcOehroSbsFQlv90YuT6cyb40wqx7XqH6NmZzPCVtDIQM3qotxwLmD\nAd5dv2vzABIM9ljjDVB7RbhWsiTr15Fcy+nVEmEPEELSiMLJ1StTZR+bjSrspalq\nH4WYv5alKm7pCMGE/bWb6QdKvye9U0y+vvSr5nnIU905a6LLQPtMkJiwzTcfzx/y\nEOs1k2ukSfexmRcIVmWH7a2P1qUwTaPYspPhQr6QYQKBgQDzNJRcVZJBA8BA9A1O\nc3lCO6gm8ypQjYYFRmfVziRvLWEwbA/nAUIskz/4XyOcsqD0CRFY1rf4U9/cLqAj\nl0//ZWxFZ5helfQTQx9XCiwQ2Dhm6iFNQ5qIaAPw9WsQBxDqu8ftRES3G6kNrmj/\nGiziPp7mLPQsQIDDcWWF3ruwSQKBgQDyrAEvuUr6OsAVnhBByGOQ66y8A1b/5LM1\nCunW1S28XP2pdPJfeNHky+igx8x9iby/tHVf4WrA0kaVtvfCEfsral+FHbWPOsPK\nlAs6BHEr5QyLNLexWqkKWHklt5waVvEud0nuZHLd2X4C01lJIc4a9p+4jeLc5krE\nO4NAkrT0DwKBgQC2t3kDCdMQf1XwNqrMltqyFQnXAXd3/2uCCQw3yGD9GfXboEQu\nRHbH8HTuD+Q8dMORtEJRITgkHDeiP3FWa/bRJQy79AG4hiZSVmp0RRMoMJnnT91n\nI/Q0qRjU7jzaVMSz5hJlQpXxj5lpyu/dQHgaHfvZaEql+GwE6evhMJ6H6QKBgQCN\ntP+kXLF52eDdPsYDg/8QW28tA05Ec8pqSQswFqB0hGDkGZSHR8hZsPERIls5W7tK\nvxhjewCZxLDPMF8RhuqC+cT5uNWS5B/9JeJAaOOlXEWs7IXwHR7lGbD043lWsDp6\nhdI4UZP6FM1O3Rggaosul6HBZal6kUhLuuz0QjdE5QKBgEY+rJ1JeLePLiZYbHFM\nEEeKgjjQgmTjkJFYOubdB10qmIAhtKk7+sn1BsS8DGrg+BWEAyeo3QwIv+bXgKG6\noUNY20Iur9SZUxP/fjjE4QuKOVD/LQfn/3M4shFKx6xsP2+J1DD1T1ci2DL8yij2\nqdxGGiS6GPlryzE2fl+kPXjO\n-----END PRIVATE KEY-----\n",
+  "client_email": "flutterdev@platosvegetarianos-rpbi.iam.gserviceaccount.com",
+  "client_id": "101088983626810914897",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flutterdev%40platosvegetarianos-rpbi.iam.gserviceaccount.com"
+}
